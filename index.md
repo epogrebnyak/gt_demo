@@ -5,6 +5,6 @@ Key questions:
 - observed capital flows 
 - inflation differential 
 
-![](images\rub_oil.png)
+![](images/rub_oil.png)
 
-Download as [fx.xlsx] or [fx.csv]
+Download as [fx.xlsx](fx.xlsx) or [fx.csv](fx.csv)
