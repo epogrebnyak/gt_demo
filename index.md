@@ -9,8 +9,12 @@ Key questions:
 
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv)
 
+Note: graph developped [here](https://github.com/epogrebnyak/viz_demo) 
+
+
 Monthly stats
 =============
+
 ![](images/m_GDP.png)
 ![](images/m_CPI.png)
 ![](images/m_GOV.png)
@@ -22,3 +26,13 @@ Monthly stats
 ![](images/m_REAL2.png)
 
 Download data as [monthly.xlsx](data/monthly.xlsx) or [monthly.csv](data/monthly.csv)
+
+Note: developped [here](https://github.com/epogrebnyak/data-lab) and [here](https://github.com/epogrebnyak/data-rosstat-kep)
+
+To consider
+===========
+
+- Russian/English version
+- Supporting data ETL
+- Onepager graph for repost in FB
+
