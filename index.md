@@ -6,6 +6,7 @@ Key questions:
 - inflation differential 
 
 ![](images/rub_oil.png)
+![](images/rub_oil_ts.png)
 
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv)
 
