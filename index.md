@@ -7,4 +7,4 @@ Key questions:
 
 ![](images\rub_oil.png)
 
-Download as <fx.xlsx> or <fx.csv>
+Download as [fx.xlsx] or [fx.csv]
