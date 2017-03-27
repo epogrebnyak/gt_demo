@@ -7,4 +7,18 @@ Key questions:
 
 ![](images/rub_oil.png)
 
-Download data as [fx.xlsx](fx.xlsx) or [fx.csv](fx.csv)
+Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv)
+
+Monthly stats
+=============
+![](images/m_GDP.png)
+![](images/m_CPI.png)
+![](images/m_GOV.png)
+![](images/m_GOV2.png)
+![](images/m_FX.png)
+![](images/m_BOP.png)
+![](images/m_CREDIT.png)
+![](images/m_REAL.png)
+![](images/m_REAL2.png)
+
+Download data as [monthly.xlsx](data/monthly.xlsx) or [monthly.csv](data/monthly.csv)
