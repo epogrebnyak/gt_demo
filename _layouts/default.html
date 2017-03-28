@@ -12,14 +12,11 @@
     <![endif]-->
   </head>
   <body>
-  
-  ---------
-  oh no!!!!
-  ---------
+
   
   
     <div class="wrapper">
-      <header>
+      <!--header-->
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -38,7 +35,7 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
         {% endif %}
-      </header>
+      <!--/header-->
       <section>
 
       {{ content }}
