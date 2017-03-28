@@ -1,3 +1,31 @@
+Чем может быть этот экран?
+==========================
+1. База/коллекция макроэкономических данных в виде временных рядов 
+ - аналог - [FRED](https://fred.stlouisfed.org/)
+ - пользователь может рассмотреть отдельно любой показатель и скачать его 
+ - можно скачать всю базу показателей или группу
+ 
+2. Карта (heatmap/landing page) текущих показателей 
+ - аналог - Семафон  
+ - может быть что-то отсюда - <http://matplotlib.org/gallery.html>
+ 
+3. "Лучшие графики из презентаций"
+ - аналитические графики, показывают некоторые 
+ - пример - дневной/месячный график  доллара-нефть   
+ - длинные ряды - зависимость блинных покзаателей
+ 
+4. Подборки данных (и прогнозов) для конечных пользователей
+ - пользователь может выбрать заранее определенный набор данных ("preset") для своих нужд
+ - данные могут включать прогнозные значения
+
+To consider
+===========
+
+- Russian/English version
+- Supporting data ETL
+- Onepager graph for repost in FB
+
+
 Exchange rate
 =============
 Key questions:
@@ -26,10 +54,4 @@ Download data as [monthly.xlsx](data/monthly.xlsx) or [monthly.csv](data/monthly
 
 Note: developped [here](https://github.com/epogrebnyak/data-lab) and [here](https://github.com/epogrebnyak/data-rosstat-kep)
 
-To consider
-===========
-
-- Russian/English version
-- Supporting data ETL
-- Onepager graph for repost in FB
 
