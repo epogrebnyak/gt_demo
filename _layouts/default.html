@@ -17,7 +17,9 @@
       <!-- I want this header to be on top of page, as in https://github.com/yous/whiteglass -->
       
       <header>
-        <h1>{{ site.description | default: site.github.project_tagline }}</h1>
+        <h1>Macroeconomic charts</h1>
+        <p>(sandbox version)</p>
+         
                         
         <!--  
         {% if site.show_downloads %}
@@ -38,7 +40,7 @@
       <footer>
         {% if site.github.is_project_page %}
         
-        <p>{{ site.github.repository_name }}</p>
+        <p>{{ site.github.repository_name }}: {{ site.github.repository_tagline }}</p>
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>        
         
