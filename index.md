@@ -12,7 +12,7 @@ Key questions:
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv)
 
 Note: graph developped [here](https://github.com/epogrebnyak/viz_demo) 
-      and data located here [here](https://github.com/epogrebnyak/data-fx-oil) 
+      and data located [here](https://github.com/epogrebnyak/data-fx-oil) 
 
 
 Monthly stats
