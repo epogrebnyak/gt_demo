@@ -2,20 +2,15 @@ Exchange rate
 =============
 - Daily graph shows inverse relationship between ruble exchange rate and Brent oil price
   at different trajectories.
-- Red dots represent last 15 working days as of 28-03-2017.
+- Red dots represent last 15 working days as of 28-03-2017, they are somewhat below 
+  historic trajectory.
 
 ![](images/rub_oil.png)
 
-Todo:
-- end of month dtapoints 
-- observed capital flows 
-- inflation differential 
-- bokeh subplots with controls
-
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv)
 
-Note: graph developped [here](https://github.com/epogrebnyak/viz_demo) 
-      and data located [here](https://github.com/epogrebnyak/data-fx-oil) 
+*Note: graph developped [here](https://github.com/epogrebnyak/viz_demo) 
+and data located [here](https://github.com/epogrebnyak/data-fx-oil)*
 
 
 Monthly stats
