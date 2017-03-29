@@ -1,13 +1,16 @@
 Exchange rate
 =============
-
-Key questions:
-- oil as driver for ruble 
-- observed capital flows 
-- inflation differential 
+- Daily graph shows shows inverse relationship between ruble exchange rate and Brent oil price
+  at different trajectories.
+- Red dots represent last 15 working days as of 28-03-2017.
 
 ![](images/rub_oil.png)
-![](images/rub_oil_ts.png)
+
+Todo:
+- end of month dtapoints 
+- observed capital flows 
+- inflation differential 
+- bokeh subplots with controls
 
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv)
 
