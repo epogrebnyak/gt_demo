@@ -1,3 +1,14 @@
+Exchange rate
+=============
+Todo:
+- zoom to current
+- end of month datapoints (see EIA in fx-oil repo)
+- oil in ruble
+- observed capital flows (BOP)
+- inflation differential (CPI)
+- bokeh subplots with controls as in <https://demo.bokehplots.com/apps/stocks>
+
+
 Чем может быть этот экран?
 ==========================
 1. База/коллекция макроэкономических данных в виде временных рядов 
