@@ -1,6 +1,6 @@
 Exchange rate
 =============
-- Daily graph shows shows inverse relationship between ruble exchange rate and Brent oil price
+- Daily graph shows inverse relationship between ruble exchange rate and Brent oil price
   at different trajectories.
 - Red dots represent last 15 working days as of 28-03-2017.
 
