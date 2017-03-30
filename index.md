@@ -3,11 +3,14 @@ Exchange rate
 - Daily graph shows inverse relationship between ruble exchange rate and Brent oil price.
 - There are several historic trajectories, differing at ruble/oil elasticity and exchange rate levels.
 - End of March 2017 datapoints are on a lower band of historic trajectory: ruble is much stronger than before
-  given the oil current prices.
+  given current oil prices.
   
 ![](images/rub_oil.png)
+[<img src="http://datachart.cc/images/rub_oil.png">](http://datachart.cc/scatter)
 
-Red dots represent last 15 working days as of 28-03-2017. Click on [here](http://datachart.cc/scatter) to explore underlying data in browser.
+Red dots represent last 15 working days as of 28-03-2017. 
+
+Click on [here](http://datachart.cc/scatter) to explore underlying data in browser.
 
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv).
 
