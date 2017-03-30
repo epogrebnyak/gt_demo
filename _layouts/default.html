@@ -16,7 +16,7 @@
       
       <!-- I want this header to be on top of page, as in https://github.com/yous/whiteglass -->
       
-      <header>
+      <header id="header">
         <div class="wrapper">
           <h1><a href="#">Macroeconomics @datachart.cc</a></h1>
           <ul>
@@ -40,7 +40,7 @@
         
       </header>
       <div class="clearfix"></div>
-      <div class="content">
+      <div class="content" id="content">
         <section class="content-section">
 
         {{ content }}
@@ -72,5 +72,10 @@
         ga('send', 'pageview');
     </script>
   {% endif %}
+  <script>
+    (function(){
+      content.style.marginTop = header.offsetHeight * .8 + 'px';
+    }());
+  </script>
   </body>
 </html>

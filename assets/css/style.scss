@@ -20,7 +20,9 @@
     h1 {
       width: 64%;
       float: left;
-      margin-top: 20px;
+      margin-top: 50px;
+      margin-bottom: 10px;
+      @media (max-width: 720px) {margin-top: 25px;}
       a {
         color: #000;
         &:hover {
@@ -35,7 +37,9 @@
       border: none;
       background: inherit;
       width: auto;
-      margin-top: 20px;
+      margin-top: 50px;
+      margin-bottom: 10px;
+      @media (max-width: 720px) {margin-top: 25px;}
       li {
         border-right: 1px solid #e0e0e0;
         width: 75px;
