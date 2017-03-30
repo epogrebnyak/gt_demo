@@ -7,13 +7,13 @@ Exchange rate
   
 [<img src="http://datachart.cc/images/rub_oil.png" alt="Click on image to explore data">](http://datachart.cc/scatter)
 
-Red dots represent last 15 working days as of 28-03-2017. 
+Red dots represent last 15 working days as of 28-03-2017.  
 
-Click on [here](http://datachart.cc/scatter) to explore graph data in browser.
+Click on [here](http://datachart.cc/scatter) to explore graph data in browser.  
 
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv).
 
-*Note: graph deisgned [here](https://github.com/epogrebnyak/viz_demo) 
+*Note: graph designed [here](https://github.com/epogrebnyak/viz_demo) 
 and data located [here](https://github.com/epogrebnyak/data-fx-oil)*
 
 
