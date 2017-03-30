@@ -5,12 +5,11 @@ Exchange rate
 - End of March 2017 datapoints are on a lower band of historic trajectory: ruble is much stronger than before
   given current oil prices.
   
-![](images/rub_oil.png)
-[<img src="http://datachart.cc/images/rub_oil.png">](http://datachart.cc/scatter)
+[<img src="http://datachart.cc/images/rub_oil.png" alt="Click on image to explore data">](http://datachart.cc/scatter)
 
 Red dots represent last 15 working days as of 28-03-2017. 
 
-Click on [here](http://datachart.cc/scatter) to explore underlying data in browser.
+Click on [here](http://datachart.cc/scatter) to explore graph data in browser.
 
 Download data as [fx.xlsx](data/fx.xlsx) or [fx.csv](data/fx.csv).
 
